@@ -1,0 +1,95 @@
+yasaman habibi
+list of tag library
+html tags:
+<!--...-->	
+<!DOCTYPE> 	
+<area>	
+<article>	
+<blockquote>	
+<body>	
+<br>		
+<data>	
+<div>	
+Defines 
+<footer>	
+<form>	
+<frame>	
+<head>	
+<header>	
+<hgroup>	
+<hr>	
+<html>	
+<i>	
+<iframe>	
+<img>	
+<input>	
+<ins>	
+<kbd>	
+<label>	
+<legend>	
+<li>	
+<link>	
+<main>	
+<map>	
+<mark>	
+<menu>	
+<meta>	
+<meter>	
+<optgroup>	
+<option>	
+<output>	
+<p>	
+<param>	
+<picture>	
+<script>	
+<search>	
+<section>	
+<select>	
+<small>	
+<source>	
+<span>	
+<strike>	
+<strong>	
+<style>	
+<sub>	
+<summary>	
+<sup>	
+<svg>	
+<table>	
+<tbody>	
+<td>	
+<template>	
+<textarea>	
+<tfoot>	
+<th>	
+<thead>	
+<time>	
+<title>	
+<tr>	
+<track>	
+<tt>	
+<u>	
+<ul>	
+<var>	
+<video>	
+<wbr>
+
+xml tags:
+<x:out>
+<x:parse>
+<x:set >
+<x:if >
+<x:forEach>
+<x:choose>
+<x:when >
+<x:otherwise >
+<x:transform >
+<x:param >
+
+sql tags:
+<sql:setDataSource>
+<sql:query>
+<sql:update>
+<sql:param>
+<sql:dateParam>
+<sql:transaction >
